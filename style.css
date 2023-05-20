@@ -10,6 +10,8 @@
   min-height: 100vh;
   background: linear-gradient(135deg, #e0e2d8, #af5757);
   padding: 10px;
+  margin: 0;
+  max-width: 100vw;
 }
 
 .todo-app {
